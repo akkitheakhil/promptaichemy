@@ -1,4 +1,4 @@
-# Prompt Enhancer
+# Prompt AIChemy
 
 A VS Code sidebar extension that rewrites your raw instructions into clear, specific, and actionable prompts for [Claude Code](https://claude.ai/code) — using a local Ollama model so nothing leaves your machine.
 
